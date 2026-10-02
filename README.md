@@ -6,12 +6,7 @@
 🚀 Some of my main projects:
 
 - 🔭 I’m currently working on a Project in Angular and another Project with MongoDb and NodeJS:
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=minoveaz&repo=angular-web-portfolio)](https://github.com/minoveaz/angular-web-portfolio)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=minoveaz&repo=node-app)](https://github.com/minoveaz/node-app)
-
-
+- 
 -  🤖 I work in Deloitte Robotics Spain
 
 - :bar_chart: I love Stats and make cool Dashboards
