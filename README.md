@@ -4,7 +4,6 @@
  and Databases (MongoDB). I like to use GCP for Cloud Solutions. :octocat:
 
 🚀 Some of my main projects:
-
 - 🔭 I’m currently working on a Project in Angular and another Project with MongoDb and NodeJS:
 - 
 -  🤖 I work in Deloitte Robotics Spain
